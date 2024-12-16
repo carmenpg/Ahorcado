@@ -8,6 +8,10 @@ package ahorcado;
  *
  * @author carmenperezgomez
  */
+
+
+
 public class Controlador {
+
     
 }
